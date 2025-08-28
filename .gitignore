@@ -1,0 +1,9 @@
+# Ignorar archivos de conf
+# Ignorar logs
+*.log
+
+#Ignorar archivos locales de configuracion
+.env
+
+# Ignorar archivos
+archivo1.txt
